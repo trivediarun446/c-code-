@@ -4,7 +4,7 @@ int main(){
 
     printf("enter the number of rows \n");
     scanf("%d",&n);
-    
+    printf("testing ");
     for (int i = 1; i<=n; i++)
     {
         for (int k = 1; k<=n-i; k++){
